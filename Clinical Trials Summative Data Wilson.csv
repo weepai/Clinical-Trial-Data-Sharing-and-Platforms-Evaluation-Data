@@ -1,0 +1,25 @@
+Platform,Sponsor,size,HIV studies,link_CTG,CTG_cross,other_links,repository infrastructure (i.e. data searching (DS) vs. data access (DA)),results_posted,results_posted_before (on CTG),ctg_registry_present,time_ctg_registry_posted,interventional,observational,behavioral,epidemiological,other (or nonspecified),date range (i.e. of sample),pharma (sponsor),education (sponsor),other (sponsor),total_sampled,basic,full,complete,none,data access,request walls,Pay to access?,agreements,additional restrictions,data formats,"mode of data transfer (i.e. single study mode, batch, both)",downloadable?,data dictionary availability,data dictionary formats,dd_interoperability,data_contributor_fee?,Additional Notes,,,,,,Key,,,,,,
+,,,,,general,,,                 Elements posted on CTG,,,,,Types of Studies Sampled,,,,,,sample data,,,,level of review,,,,,,,data ,,,,,,data dictionary,sponsor data,general,,,,,,,,,,,,
+CSDR,consortium,4051,84,100%,0%,BI clinical,DA,50%,50%,100%,100%,100%,0%,0%,0%,0%,2005-2014,4069,8,0,4077,50%,50%,0%,0%,restricted,"A, P, D",N,"DSA, DUA",limited access period (12 months),5 Unknown; 5 tabular on CTG,batch,N,90%,4 unknown; 5 tabular on CTG,5 NA; 5 CP,Unknown,data sponsors and dates taken from downloaded stats; the rest taken from 10-study sample,Can request mutliple datasets with a single request,,,,,request walls,A=account,,,,,
+Vivli,organization,3200,22,100%,0%,Sponsor site,DA,40%,CND,100%,70%,90%,10%,0%,0%,0%,1992-2017,9,0,1,10,60%,40%,0%,0%,restricted,"A, P, D",I,"DSA, DUA",NA,6 unknown; 4 tabular on CTG,batch,N,40%,4 tabular on CTG; 6 NA,4 CP,Y,"recommends submitting a data package, but does not require. Charges for users to use website data environment",,,,,,,P=project proposal,,,,,
+Biolincc,NHLBI,201,17,90%,50%,PP; Study Website,DA,50%,30%,90%,90%,60%,0%,0%,40%,0%,1999-2014,0,5,5,10,50%,50%,0%,0%,restricted,"A, P, D",N,"DSA, DUA",NA,5 Unknown; 5 tabular on CTG,single study,Y,100%,10 PDF,10 NC,N,,,,,,,,IA=Institutional account,,,,,
+dbGaP,NHGRI,446,72,0%,0%,PP; Study Website; BioProject; SRA; BioSample; MeSH; Gene,DA,0%,NA,0%,NA,0%,0%,0%,0%,100%,2019,0,0,10,10,100%,0%,0%,0%,restricted,"A, P, D",N,DUC; Data User Code of Conduct,NA,10 Unknown,single study,Y,100%,10 xml,10 Y,N,"the repository does have a public download folder, which contains publicly avaialble datasets. The sample was taken, however, from the 1st 10 recent datasets, which were all controlled access. Data is both group level and individual-level. ""single study"" downloads pertain to the datasets that require access requests; the public access datasets may be downloaded in batches. ",,,,,,,C=must contact PI,,,,,
+Project Data Sphere,LSC,183,6,100%,0%,NA,DA,80%,80%,100%,100%,100%,0%,0%,0%,0%,2003-2018,3,1,6,10,20%,80%,0%,0%,restricted,"A, P, D",N,"DSA, DUA",NA,3 zip; 7 CSV; 8 summative,batch,B,100%,1 Word; 7 PDF; 2 Excel; 8 tabular on CTG,2 unknown; 8 CP,Unknown,,,,,,,,D=data use agreement,,,,,
+Nida,NIDA,79,2,100%,0%,NA,DA,0%,NA,100%,100%,100%,0%,0%,0%,0%,1999-2008,0,0,10,10,0%,0%,100%,0%,open,D,N,DUA,NA,"10 zip, 10 CSV; 10 SAS",single study,Y,100%,10 xlsx,10 Y,N,"site underwent a total change from the first time I looked at it (i.e. for the first project with protocols). Requires registration agreement  (aka data use agreement): (very easy, just enter your name, email, and country and hit submit). Very easy to navigate/view information; love this site! Does not require a data request",,,,,,policies,DSA=data sharing agreement,,,,,
+DASH,NICHD,131,70,90%,0%,PP; Study Website,DA,10%,CND,90%,CND,40%,50%,10%,0%,0%,2009-2016,0,7,3,10,10%,90%,0%,0%,restricted,"A, P, D",N,"DSA, DUA",NA,2 xpt; 7 SAS; 7 CSV; 1 Excel,single study,Y,100%,9 PDF; 6 zip; 7 Excel; ,7 Y; 3 NC,N,,,,,,,,DCA=data contributor agreement,,,,,
+Pangaea,AWI; MARUM,383145,NA,NA,NA,PP; similar studies (internal); similar datasets (internal),DA,NA,NA,NA,NA,0%,0%,0%,0%,100%,2019,0,0,0,10,0%,20%,80%,0%,both,"A, C (in 1 case)",N,None,NA,"10 zip, tab, html",single study,Y,80%,8 tab,8 Y,Y,the repository is supported by research institutes in Germany,,,,,,data use specifications,C=copyright,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A=Requires attribution
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NE=non-exclusivity requirement
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,maxing,M=maxing
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PS=pseudo maxing
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,level of review,Basic=summative preview
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Full=partial preview of data
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Complete=data is freely downloadable
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
