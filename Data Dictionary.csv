@@ -1,0 +1,59 @@
+Key,Note: SE = self explanatory,Additional note for data elements: CND = Could Not Determine
+,,
+,,
+General,Platform,SE
+,Sponsor,SE
+,Size,SE
+,HIV_studies,SE
+,link_CTG,percentage of studies on platform that had links to ClinicalTrials.gov
+,CTG_cross,percentage of studies on platform that had links to themselves from CTG (i.e. CTG has a link to the data platform)
+,other_links,non-CTG links present in the studies on the platform
+,repository_purpose,(DA) Data Access Repository: This would be a repository that allows users to access data on their site.
+,,"(DA) Data Searching Repository: This would be roughly defined as a ?repository of repositories.? Users of the data searching repository would use the repository to search for datasets, but, rather than providing access to the dataset, the repository would provide a link to another repository where the data may be accessed (in other words, a data searching repository does not provide access to a dataset, it informs the user where to find the dataset)."
+,,"(PA) Partial Aggregator: Repository with both data access and data searching characteristics. Specifically, refers to repositories where some datasets may be accessed on the repository while others may only be accessed through linkages to a different repository."
+Elements posted on CTG,results_posted,Are the results (summative) of the study posted on CTG?
+,time_results_posted,Were the results posted on CTG before (B) or after (A) being posted on the data platform? (will be presented in percentages)
+,ctg_registry_present,Is there a registry on CTG (i.e. basic outline of study design)
+,time_ctg_registry_posted,Was the registry present on CTG before (B) or after (A) the results were posted on the data platform? (use date first posted)
+Types of studies sampled,interventional,SE
+,observational,SE
+,behavioral,SE
+,epidemiological,SE
+,other ,SE
+sample data,date_range,date range of sample studies
+,pharma,study funded by pharmaceutical company
+,educational,study funded by educational institution
+,other,study funded by other entity
+,total sampled,SE
+level of review,basic,"summative preview (i.e. only a summary of the study, no results posted)"
+,full,full preview (i.e. a summative preview of the study and the data are posted)
+,complete,complete (i.e. data and relevant documentation is fully downloadable)
+,none,no preview of the study or data is available
+data,data_access,"restricted (barriers to accessing data are present), open (no barriers to access data), or both (only some studies have barriers to their data)"
+,request_walls,A = account is required to access data
+,,P = project proposal is required to access data
+,,D = signing agreement is required to access data
+,pay_to_access?,N = users do not have to pay a fee to access data
+,,Y = users have to pay a fee to access data
+,,I = users have to pay indirect fees to access data (e.g. they have to pay to use the requisite online environment provided by the site)
+,agreements,DSA = data sharing agreement
+,,DCA = data contributor agreement
+,,DUA = data use agreement
+,additional_restrictions,any additional restrictions for accessing data (e.g. limited access periods)
+,data_type,i.e. raw vs. analysis ready (only recorded when observed)
+,deidentification_method,"If applicable, how is data deidentified by the platform?"
+,data_formats,SE
+,utilized_standard_flag,
+,data_standard,
+,mode_of_data_transfer,single: data must be requested one study at a time
+,,batch: multiple studies' data can be requested at once
+,downloadable?,"can the data be downloaded onto a personal device? (yes, no, both (sometimes))"
+data dictionary,data_dictionary_availability,Do the studies have evidence of a data dictionary?
+,data_dictionary_formats,SE
+,dd_interoperability,NA = no data dictionary available
+,,CP = data dictionary can easily be copied and pasted into an Excel file
+,,NC = data dictionaries cannot be downloaded or copy pasted easily into an Excel file
+,,Y = data dictionaries can be downloaded and opened easily in an Excel file
+,,Unknown = data dictionary is inaccessible (i.e. access is blocked by a request wall)
+,DE_mapping,"are data dictionaries mapped to common data elements (e.g. SNOWMED CT, LOINC, RxNorm) --Only document when observed"
+sponsor,data_contributor_fee,Do data submitters need to pay a fee in order to submit data?
